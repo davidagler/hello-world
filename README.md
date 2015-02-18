@@ -1,2 +1,3 @@
-# hello-wordl
-Just a basic hello-world test repository
+# hello-world
+Just a basic hello-world test repository. 
+
